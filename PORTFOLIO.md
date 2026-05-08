@@ -1,1 +1,2 @@
 # Veronica Guirin
+## Habilidades Técnicas
